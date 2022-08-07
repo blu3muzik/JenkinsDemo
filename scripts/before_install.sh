@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf /usr/share/tomcat/webapps/bravo*
+rm -rf /usr/share/tomcat8/webapps/bravo*
