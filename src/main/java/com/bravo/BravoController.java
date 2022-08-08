@@ -5,6 +5,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController class BravoController {
 	@RequestMapping(value = "/")
 	public String bravobanner() {
-		return "DEMONSTRANDO AUTOMATIZACION DEL PIPELINE - v002";
+		return "MANUAL APPROVAL STAGE AND PROD DEPLOYMENT - v1";
 	}
 }
